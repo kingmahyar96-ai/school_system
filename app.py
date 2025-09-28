@@ -32,6 +32,6 @@
 # from view.course_view import CourseView
 # ui = CourseView()
 
-import test.exercise_test
+#import test.exercise_test
 
 
